@@ -1,0 +1,9 @@
+label.paging {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+input.paging {
+    width: 3em;
+    text-align: center;
+}

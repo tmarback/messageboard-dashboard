@@ -1,0 +1,17 @@
+.control-element {
+    margin-right: 50px;
+}
+
+input, select {
+    margin-left: 10px;
+}
+
+.react-toggle {
+    margin-left: 10px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+form {
+    margin: 10px;
+}

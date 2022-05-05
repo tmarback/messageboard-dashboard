@@ -1,0 +1,40 @@
+.message {
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+}
+
+.message div {
+    text-align: left;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.message-content {
+    flex: 1;
+    padding: 10px;
+}
+
+.message-control {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding-inline: 10px;
+}
+
+.message-control button {
+    display: block;
+    width: 2em;
+    flex: none;
+    text-align: center;
+    padding: 0px;
+    font-size: 150%;
+}
+
+p {
+    margin: 1px;
+}
+
+.avatar {
+    padding: 2px;
+}
