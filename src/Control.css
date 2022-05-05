@@ -1,5 +1,8 @@
 .control-element {
-    margin-right: 50px;
+    margin-inline: 25px;
+    margin-block: 2px;
+    white-space: nowrap;
+    display: inline-block;
 }
 
 label.control-element input, label.control-element select {
@@ -13,5 +16,5 @@ label.control-element input, label.control-element select {
 }
 
 form {
-    margin: 10px;
+    margin-block: 8px;
 }
